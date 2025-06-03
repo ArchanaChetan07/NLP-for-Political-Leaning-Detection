@@ -1,0 +1,6 @@
+nltk
+numpy
+ipykernel
+matplotlib
+pandas
+jupyter
